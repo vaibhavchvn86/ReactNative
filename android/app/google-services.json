@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1956598223",
+    "project_id": "easyrewardzpush",
+    "storage_bucket": "easyrewardzpush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1956598223:android:65341d63f391dfd9b302ba",
+        "android_client_info": {
+          "package_name": "com.easyrewardz.shopster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9UMwwnL0D_yc7DZdZg-fJC0e_3GEeY_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1956598223:android:0334464a5af885b5b302ba",
+        "android_client_info": {
+          "package_name": "com.zencegtm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9UMwwnL0D_yc7DZdZg-fJC0e_3GEeY_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
